@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    line-height: 2.2;
+}
+header{
+    background-color: black;
+    padding: 10px;
+    margin: 0;
+}
+h1{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+}
+nav li a{
+    padding: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+nav li{
+    float: left;
+    text-transform: uppercase;
+}
+
+nav ul{
+    float: right;
+    list-style: none;
+}
+
